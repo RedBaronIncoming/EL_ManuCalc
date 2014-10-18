@@ -1,4 +1,4 @@
-#Written By David Kummetz
+#Written By dragonbeing
 import math
 
 p=0.0
